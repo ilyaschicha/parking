@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811460894996",
+    "firebase_url": "https://nafea-d03fa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nafea-d03fa",
+    "storage_bucket": "nafea-d03fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811460894996:android:a3b9d102a91639c00a6201",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811460894996-nug4kffvukhc4agb208fg1pigf8k6jtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFKjQnT7jmDVcaDxobBU9t1UqCu7MKvtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811460894996-nug4kffvukhc4agb208fg1pigf8k6jtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
