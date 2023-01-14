@@ -7,7 +7,8 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.471205656780-hpb3ieiq35tonefqkkk55tm1qhgt9jr3</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB9cllXOCptbgJepVcm0vUnA79nMBjSiwI</string>
+	<!-- TODO : add your google cloud api key for ios -->
+	<string>ADD YOUR API KEY</string>
 	<key>GCM_SENDER_ID</key>
 	<string>471205656780</string>
 	<key>PLIST_VERSION</key>
