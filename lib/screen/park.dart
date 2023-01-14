@@ -23,18 +23,13 @@ class ParkPage extends StatelessWidget {
           if (snapshot.hasData) {
             List<Spote> sp = [];
 
-            // if (snapshot.data is List<Document>) {
-            //   sp = p.getParkSpot(docs: snapshot.data!);
-            // } else {
-            // print();
+
             if (snapshot.data!.snapshot.value != null) {
               sp = p.getParkSpot(list: snapshot.data!.snapshot.value);
             } else {
               sp = [];
             }
             sp = sp.where((element) => element.state == false).toList();
-            // }
-            // print(sp[0].state);
             return sp.isNotEmpty
                 ? Container(
                     margin: const EdgeInsets.symmetric(
