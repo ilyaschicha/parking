@@ -17,7 +17,7 @@ class _HomeState extends State<Home> {
     ParkingProvider p = Provider.of<ParkingProvider>(context, listen: false);
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Park"),
+        title: const Text("Park Me"),
         centerTitle: true,
       ),
       body: StreamBuilder(
